@@ -1,0 +1,2 @@
+Fantastic game 
+    main()
